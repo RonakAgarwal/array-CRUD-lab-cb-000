@@ -7,7 +7,6 @@ end
 
 def create_an_array
   four_element = [a, b, c, d]
-  
 
 
 end
