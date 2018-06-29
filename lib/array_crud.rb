@@ -26,7 +26,7 @@ end
 def remove_element_from_end_of_array(array)
 
   array = ["hi", "bob"]
-  array.unshift(element)
+  dank = array.pop
 
 
 end
