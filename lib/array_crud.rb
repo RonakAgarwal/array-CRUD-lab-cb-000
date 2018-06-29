@@ -25,8 +25,8 @@ end
 
 def remove_element_from_end_of_array(array)
 
-  array = ["lil' bub", "grumpy cat", "Maru"]
-  maru_cat = array.pop
+  array = ["I", "am", "really", "learning", "arrays!"]
+  remove = array.pop
 
 
 end
