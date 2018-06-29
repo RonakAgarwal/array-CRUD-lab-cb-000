@@ -48,3 +48,5 @@ end
 def retrieve_last_element_from_array(array)
 
 end
+
+remove_element_from_start_of_array(array)
